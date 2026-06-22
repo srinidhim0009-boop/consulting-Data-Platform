@@ -1,2 +1,2 @@
-# consulting-Data-Platform
-End-to-end data engineering pipeline for consulting company using python, postgresql, Airflow, dbt, Docker, and PowerBI
+consulting-operations-data-platform
+End-to-end Data Engineering project built using Python, PostgreSQL, Pandas, SQLAlchemy and SQL for consulting operations analytics, reporting and data quality validation.
